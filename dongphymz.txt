@@ -1,5 +1,1 @@
 dongphymz.net
-fish.ns.cloudflare.com.
-mcgrory.ns.cloudflare.com.
-10 mx1.titan.email.
-10 mx2.titan.email.
