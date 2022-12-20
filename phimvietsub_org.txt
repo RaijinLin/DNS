@@ -1,8 +1,0 @@
-phimvietsub.org
-mario.ns.cloudflare.com.
-zelda.ns.cloudflare.com.
-10 eforward3.registrar-servers.com.
-10 eforward2.registrar-servers.com.
-10 eforward1.registrar-servers.com.
-15 eforward4.registrar-servers.com.
-20 eforward5.registrar-servers.com.
