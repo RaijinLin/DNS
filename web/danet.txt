@@ -1,0 +1,7 @@
+danet.vn
+static.danet.vn
+com.danet.vn
+cas.danet.vn
+images.danet.vn
+cms.danet.vn
+payment.danet.vn
