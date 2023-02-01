@@ -1,0 +1,7 @@
+app.in-novel.com
+api.in-novel.com
+88.in-novel.com
+img.truyenapp.com
+truyenapp.com
+truyenapp.net
+truyen88.org
