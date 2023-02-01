@@ -1,0 +1,9 @@
+demo.linshare.org
+demo-assemblee-nationale.linshare.org
+demo-webmail.linshare.org
+download.linshare.org
+forge.linshare.org
+jenkins.linshare.org
+pre-www.linshare.org
+ssp.linshare.org
+www.linshare.org

@@ -1,0 +1,9 @@
+cpanel.gametiengviet.com
+cpcalendars.gametiengviet.com
+cpcontacts.gametiengviet.com
+ipv6.gametiengviet.com
+mail.gametiengviet.com
+webdisk.gametiengviet.com
+webmail.gametiengviet.com
+www.gametiengviet.com
+gametiengviet.com

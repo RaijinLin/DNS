@@ -1,6 +1,0 @@
-v2.cdn.nhac.vn
-test.nhac.vn
-api.nhac.vn
-math2.nhac.vn
-cms.nhac.vn
-vt.nhac.vn
