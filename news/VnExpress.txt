@@ -1,0 +1,15 @@
+api3.vnexpress.net
+adp.vnecdn.net
+la3.vnecdn.net
+usi-saas.vnexpress.net
+la2.vnecdn.net
+gw.vnexpress.net
+a.vnecdn.net
+i-suckhoe.vnecdn.net
+i-giaitri.vnecdn.net
+s1.vnecdn.net
+i-sohoa.vnecdn.net
+adp.vnecdn.net
+open-api.vnexpress.net
+appperf.vnexpress.net
+la2.vnecdn.net

@@ -1,0 +1,17 @@
+mail01.mewe.com
+sentry.mewe.com
+dev2.mewe.com
+api.mewe.com
+ws.mewe.com
+admin.mewe.com
+sendy.mewe.com
+go.mewe.com
+support.mewe.com
+c.mewe.com
+blog.mewe.com
+exceptions.mewe.com
+img.mewe.com
+live-mewe-thumbs.s3.amazonaws.com
+mewe.com
+cdn.mewe.com
+www.mewe.com

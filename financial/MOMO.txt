@@ -1,0 +1,9 @@
+m.momo.vn
+mqtt.momo.vn
+owa.momo.vn
+api.momo.vn
+static.mservice.io
+img.mservice.io
+sentry.mservice.io
+miniapp.mservice.io
+m.mservice.io

@@ -1,0 +1,6 @@
+image.lag.vn
+adserver.lag.vn
+lag.vn
+static.lag.vn
+member.lag.vn
+lag.vn

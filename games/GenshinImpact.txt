@@ -1,0 +1,9 @@
+webstatic.hoyoverse.com
+sdk-os-static.hoyoverse.com
+autopatchhk.yuanshen.com
+dispatch-hk4e-global-os-asia.hoyoverse.com
+sg-hk4e-api.hoyoverse.com
+hk4e-sdk-os.hoyoverse.com
+log-upload-os.hoyoverse.com
+devop-data-takumi.mihoyo.com
+hk4e-sdk-os-static.hoyoverse.com

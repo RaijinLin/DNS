@@ -1,0 +1,11 @@
+svc1.ivivu.com
+food.ivivu.com
+i.travelapi.com
+pay.ivivu.com
+www.ivivu.com
+cdn3.ivivu.com
+svc3.ivivu.com
+cdn1.ivivu.com
+cdn2.ivivu.com
+api-flight.ivivu.com
+gate.ivivu.com

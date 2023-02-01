@@ -1,0 +1,2 @@
+mindpodapp.com
+api.mindpodapp.com

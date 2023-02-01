@@ -1,0 +1,5 @@
+playretrogames.online
+webdisk.playretrogames.online
+cpanel.playretrogames.online
+mail.playretrogames.online
+autodiscover.playretrogames.online

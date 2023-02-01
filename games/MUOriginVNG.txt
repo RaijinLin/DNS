@@ -1,0 +1,8 @@
+api.gamesdk.3quoc.com
+apipush.web.mplay8.com
+apipush2.web.mplay8.com
+qjmu-vn-login.game.mplay8.com
+vn-qjmu.static.kunlun.com
+pt-tracking.siamgame.in.th
+pt-static.game-ark.com
+sdkapi.web.mplay8.com

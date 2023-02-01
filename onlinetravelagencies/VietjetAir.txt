@@ -1,0 +1,4 @@
+hdbank.vietjetair.com
+mobileapp-api.vietjetair.com
+vj-prod-mobileapp-media.s3.ap-southeast-1.amazonaws.com
+www.vietjetair.com

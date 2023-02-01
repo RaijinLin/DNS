@@ -1,0 +1,11 @@
+api.tpns.hk.tencent.com
+api.tpns.tencent.com
+data-ingestion.dp.vng.com.vn
+global-vnonline-kosvn.opm.zing.vn
+kosvn-vnonline-alchemy.playcrab.com
+kosvn-vnonline-clienta.playcrab.com
+login-opm.vnggames.net
+pp.m.zing.vn
+prism.hk.gamesbean.net
+vms-vnonline-kosvn.opm.zing.vn
+api.tpns.global.tencent.com

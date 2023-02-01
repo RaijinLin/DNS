@@ -1,0 +1,12 @@
+r5-crossplay-sub-13.r5prod.stryder.respawn.com
+r5-crossplay-sub.r5prod.stryder.respawn.com
+rtm.tnt-ea.com
+friends.gs.ea.com
+groups.gameservices.ea.com
+um-45bd0a741c9aecd17685c7d0.data.ea.com
+r5-crossplay.r5prod.stryder.respawn.com
+accounts.ea.com
+api.steampowered.com
+dlassets-ssl.xboxlive.com
+download.eac-cdn.com
+pr-5c2f1a37a251ff2a6a8c6eab.data.ea.com

@@ -1,0 +1,9 @@
+apps.outfit7.com
+apps2.outfit7.com
+cdn.outfit7.com
+cdn-gcs.outfit7.com
+events-api.outfit7.com
+events-api-ak.outfit7.com
+hb-af.outfit7.com
+o7at-af.outfit7.com
+s2s-af.outfit7.com

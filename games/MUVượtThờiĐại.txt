@@ -1,0 +1,16 @@
+outer.mus.5jli.com
+musvn-gateway.37games.com
+gcollectdata.olgamevn.com
+muss13192.37games.com
+musadminserver.37games.com
+musvn-login.37games.com
+musouter.37games.com
+mus-vgm-client-log-capture.37games.com
+musres-vn.hwrescdn.com
+musreszl-vn.hwrescdn.com
+musres2-vn.hwrescdn.com
+imei.996a.com
+mus-click.37games.com
+gstore.olgamevn.com
+gpassport.olgamevn.com
+geventsapi.olgamevn.com

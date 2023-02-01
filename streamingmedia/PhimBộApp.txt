@@ -1,0 +1,3 @@
+api.phimbo.app
+phimboapi.onrender.com
+phim-bo-app-api.com-jaian.workers.dev

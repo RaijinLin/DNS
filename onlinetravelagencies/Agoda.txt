@@ -1,0 +1,15 @@
+bento.agoda.com
+m.api.forter.com
+pix7.agoda.net
+agoda.com
+pix6.agoda.net
+wg.agoda.com
+cdn0.agoda.net
+cdn6.agoda.net
+www.agoda.com
+boostrapapi.agoda.com
+beacons.gvt2.com
+gw.agoda.com
+bookapi.agoda.com
+searchapi.agoda.com
+accountapi.agoda.com

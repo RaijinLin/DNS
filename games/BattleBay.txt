@@ -1,0 +1,4 @@
+login.battlebay.net
+cloud.rovio.com
+gate.hockeyapp.net
+rink.hockeyapp.net

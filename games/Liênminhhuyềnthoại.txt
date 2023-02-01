@@ -1,0 +1,7 @@
+data.riotgames.com
+lol.secure.dyn.riotcdn.net
+lol.dyn.riotcdn.net
+lolesports.com
+feapp.vn2.lol.pvp.net
+vn2-red.lol.sgp.pvp.net
+apse1-green.pp.sgp.pvp.net

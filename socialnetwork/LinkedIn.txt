@@ -1,0 +1,10 @@
+Linkedin.com
+platform-akam.linkedin.com
+platform-ecst.linkedin.com
+dms.licdn.com
+media-exp1.licdn.com
+static.licdn.com
+www.linkedin.com
+platform-azur.linkedin.com
+static-akam.licdn.com
+static-exp1.licdn.com

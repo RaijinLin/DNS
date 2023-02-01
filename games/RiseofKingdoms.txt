@@ -1,0 +1,16 @@
+imlogger.lilithgame.com
+roccdn.lilithgame.com
+imroc-1.lilithgame.com
+chatupdate.lilithgame.com
+imenv.lilithgame.com
+rocgate.lilithcdn.com
+rocgate.lilithgame.com
+hdp-raw-log.log-global.aliyuncs.com
+hdp-raw-log.cn-shanghai.log.aliyuncs.com
+rocdir.lilithgame.com
+bidata.lilithgame.com
+psp-api.lilithgame.com
+track.lilithgame.com
+app-global.lilithgame.com
+newlog.lilithgame.com
+imv2-gl.lilithgame.com

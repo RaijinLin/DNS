@@ -1,0 +1,7 @@
+log1.perfectworldgames.com
+clientlog.perfectworldgames.com
+activity.perfectworldgames.com
+tlbb2-cdn.mto.zing.vn
+check-latency.mto.zing.vn
+log2.perfectworldgames.com
+tl2-cdn.mto.zing.vn

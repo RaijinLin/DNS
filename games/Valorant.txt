@@ -1,0 +1,13 @@
+lolstatic-a.akamaihd.net
+ap.vg.ac.pvp.net
+telemetry.vg.ac.pvp.net
+ap.lers.loyalty.riotgames.com
+valorant.secure.dyn.riotcdn.net
+apse1-green.pp.sgp.pvp.net
+pd.ap.a.pvp.net
+glz-ap-1.ap.a.pvp.net
+shared.ap.a.pvp.net
+riot-geo.pas.si.riotgames.com
+clientconfig.rpg.riotgames.com
+content.publishing.riotgames.com
+riot-client.dyn.riotcdn.net

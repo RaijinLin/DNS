@@ -1,0 +1,11 @@
+api.finhay.com.vn
+app.finhay.com.vn
+hoantien.finhay.com.vn
+web.finhay.app
+cdn1.finhay.com.vn
+v1.finhay.app
+prod.finhay.app
+webapp.finhay.com.vn
+www.finhay.com.vn
+finhay.com.vn
+cs.finhay.com.vn

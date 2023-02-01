@@ -1,0 +1,11 @@
+100072.msdk.garena.com
+push.fo4vn.garenanow.com
+staticdata.fo4vn.garenanow.com
+log.fo4vn.garenanow.com
+beepost.garenanow.com
+cdngarenanow-a.akamaihd.net
+100072.connect.garena.com
+cdn-fo4.garenanow.com
+gw.fo4vn.garenanow.com
+dl.garenanow.com
+connect.garenanow.com

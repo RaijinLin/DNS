@@ -1,0 +1,15 @@
+www.twitch.tv
+video-edge-395747.pdx01.abs.hls.ttvnw.net
+video-edge-66016e.sin04.abs.hls.ttvnw.net
+video-weaver.sin04.hls.ttvnw.net
+clips-media-assets2.twitch.tv
+usher.ttvnw.net
+gql.twitch.tv
+pubsub-edge.twitch.tv
+extensions-discovery-images.twitch.tv
+irc-ws.chat.twitch.tv
+m.twitch.tv
+p.twitchcdn.net
+static.twitchcdn.net
+video-edge-1c8bbe.pdx01.abs.hls.ttvnw.net
+video-edge-e27d3b.pdx01.abs.hls.ttvnw.net

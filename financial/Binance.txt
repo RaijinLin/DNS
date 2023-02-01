@@ -1,0 +1,11 @@
+accounts.binance.me
+log.bntrace.com
+bin.bnbstatic.com
+www.binance.com
+nbstream.binance.me
+stream.binance.me
+sdstream.binance.me
+fstream.binance.me
+dstream.binance.me
+sensors.binance.cloud
+www.binance.me

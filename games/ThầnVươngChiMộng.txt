@@ -1,0 +1,3 @@
+api.onesignal.com
+core.sdkmain.com
+rescdn.vsiffiqb.com

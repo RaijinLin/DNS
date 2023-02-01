@@ -1,0 +1,10 @@
+vietjack.com
+media.vietjack.com
+khoahoc.vietjack.com
+mail.vietjack.com
+video.vietjack.com
+hoidap.vietjack.com
+editor.vietjack.com
+test.vietjack.com
+dashboard-tailieu.vietjack.com
+apps.vietjack.com

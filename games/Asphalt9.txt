@@ -1,0 +1,16 @@
+sink.gameloft.com
+z.moatads.com
+ip-3-93-246-235-ext.a9.gold0010.gameloft.com
+ip-63-35-220-117-ext.a9.gold0010.gameloft.com
+asa-lobby-fsg003.gameloft.com
+oct.gameloft.com
+gdid.datalake.gameloft.com
+iris07-gold-ssl.gameloft.com
+teleport.soom.la
+asa-hermes.gameloft.com
+asa-fedex-fsg002.gameloft.com
+asa-osiris.gameloft.com
+eve.gameloft.com
+ip-3-35-6-195-ext.a9.gold0010.gameloft.com
+asa-anubisfinder.gameloft.com
+iap-asa.gameloft.com

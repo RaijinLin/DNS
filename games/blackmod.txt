@@ -1,0 +1,9 @@
+blackmod.net
+app.blackmod.net
+lic.blackmod.net
+dl.blackmod.net
+www.blackmod.net
+api1.blackmod.net
+ads.blackmod.net
+vip.blackmod.net
+cdn.blackmod.net

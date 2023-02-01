@@ -1,0 +1,4 @@
+static.mepuzz.com
+api.mepuzz.com
+owa.bestprice.vn
+www.bestprice.vn

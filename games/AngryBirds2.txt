@@ -1,0 +1,12 @@
+connect.tapjoy.com
+rpc.tapjoy.com
+placements.tapjoy.com
+content.tapjoy.com
+sf3assets.nekki.com
+ws.tapjoyads.com
+sf3lb.nekki.com
+inet-check.nekki.com
+prod.abdreamblast.com
+pok.mintegral.net
+assets-cloud.rovio.com
+cloud.rovio.com

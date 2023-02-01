@@ -1,0 +1,8 @@
+foreign.subzero7.cn
+ms4.applovin.com
+prod-ms4.applovin.com
+d.applovin.com
+rt.applovin.com
+ms.applvn.com
+ms.applovin.com
+d.applvn.com

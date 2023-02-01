@@ -1,0 +1,7 @@
+antslg-cdn.hwrescdn.com
+antslg-config.gamescombine.com
+antslg-gate.gamescombine.com
+c-hzgt2.getui.com
+cm-10-44.getui.com
+sdk.open.talk.getui.com
+sdk-conf.getui.com

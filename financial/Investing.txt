@@ -1,0 +1,14 @@
+d52-invdn-com.investing.com
+i-invdn-com.investing.com
+auth.eu.api.investing.com
+aappapi.investing.com
+a-invdn-com.investing.com
+d70-invdn-com.investing.com
+d1-invdn-com.investing.com
+endpoints.investing.com
+subscriptions.eu.api.investing.com
+api.investing.com
+d68-invdn-com.investing.com
+pro.eu.api.investing.com
+d51-invdn-com.investing.com
+d4-invdn-com.investing.com

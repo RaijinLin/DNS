@@ -1,0 +1,10 @@
+api.gme.qq.com
+gmeconf.qcloud.com
+dlapps1002-vgm.gamescombine.com
+geventsapi.olgamevn.com
+gpassport.olgamevn.com
+dlapp-vgm-client-log-capture.gamescombine.com
+dlapp-click-vgm.gamescombine.com
+oreoapis.gamescombine.com
+geventsapi.supergamesky.com
+geventsapi.superfastgame.com

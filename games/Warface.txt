@@ -1,0 +1,6 @@
+rpc.tapjoy.com
+connect.tapjoy.com
+mrgs-api.my.games
+3-6-3.war-prod.prod.whalekit.live
+mrgs.my.games
+war-cdn.prod.whalekit.live

@@ -1,0 +1,8 @@
+gateway.jxm.g6.zing.vn
+data.jxm.g6.zing.vn
+jxm.vcdn.vn
+outer.jxm.g6.zing.vn
+pp.m.zing.vn
+user.jxm.g6.zing.vn
+login-jxm.vnggames.net
+check-latency.mto.zing.vn

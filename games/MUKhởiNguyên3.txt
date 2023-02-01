@@ -1,0 +1,9 @@
+access1.tpns.sgp.tencent.com
+guid.tpns.sgp.tencent.com
+authhk.gamesbean.net
+gs-50289-20000063150.gamesbean.net
+prism-hk.gamesbean.net
+login-20000063150.gamesbean.net
+notice-cdn.game-bean.com
+mcdn-20000063150.game-bean.com
+cdn-20000063150.game-bean.com

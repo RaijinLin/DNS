@@ -1,0 +1,7 @@
+log.reyun.com
+ta-proxy-hk.xmpaoyou.com
+xztwcdn.hkpctimes.com
+xztwgame.hkpctimes.com
+xzencdn.hkpctimes.com
+xzengame.hkpctimes.com
+m-xmjen.hkpctimes.com

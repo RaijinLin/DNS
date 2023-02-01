@@ -1,0 +1,17 @@
+sa2.chat.si.riotgames.com
+playerpreferences.riotgames.com
+apne.pp.sgp.riotgames.com
+riot-geo.pas.si.riotgames.com
+entitlements.auth.riotgames.com
+ekg.riotgames.com
+wildrift.secure.dyn.riotcdn.net
+ritoplus.secure.dyn.riotcdn.net
+riot-client.secure.dyn.riotcdn.net
+lol.secure.dyn.riotcdn.net
+bacon.secure.dyn.riotcdn.net
+authenticate.riotgames.com
+riot-client.dyn.riotcdn.net
+auth.riotgames.com
+data.riotgames.com
+clientconfig.rpg.riotgames.com
+sea.edge.rms.si.riotgames.com

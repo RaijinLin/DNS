@@ -1,0 +1,15 @@
+cdn.aiinfrastructure.teams.microsoft.com
+pptservicescast.officeapps.live.com
+codepush.teams.microsoft.com
+apac.presence.teams.live.com
+roaming.officeapps.live.com
+go.trouter.teams.microsoft.com
+tr.teams.microsoft.com
+msgapi.teams.live.com
+api.microsoftstream.com
+presence.teams.live.com
+teams.events.data.microsoft.com
+teams.live.com
+login.microsoftonline.com
+config.teams.microsoft.com
+statics.teams.cdn.office.net

@@ -1,0 +1,12 @@
+us.api.blizzard.com
+download.blizzard.com.c.footprint.net
+blizzard.secure.footprint.net
+blzddist1-a.akamaihd.net
+telemetry-in.battle.net
+alert-us.battle.net
+account.battle.net
+us.actual.battle.net
+us.battle.net
+images.blz-contentstack.com
+us.patch.battle.net
+api.blizzard.com

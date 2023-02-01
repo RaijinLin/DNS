@@ -1,0 +1,14 @@
+clientbp.common.ggbluefox.com
+100067.connect.garena.com
+dl.aw.freefiremobile.com
+version.common.freefiremobile.com
+vn.network.freefiremobile.com
+dl.dir.freefiremobile.com
+csoversea.stronghold.freefiremobile.com
+100067.msdk.garena.com
+dl.castle.freefiremobile.com
+gin.freefiremobile.com
+vn.event.freefiremobile.com
+ff.sdk.grtc.garenanow.com
+freefiremobile-a.akamaihd.net
+login.common.freefiremobile.com

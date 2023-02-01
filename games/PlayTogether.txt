@@ -1,0 +1,9 @@
+login-ptg.vnggames.net
+check-latency.mto.zing.vn
+data-ingestion.dp.vng.com.vn
+telemetry.sdk.inmobi.com
+sdk-events.inner-active.mobi
+pp.m.zing.vn
+game.playtogether.haegin.co.kr
+config.inmobi.com
+wv.inner-active.mobi

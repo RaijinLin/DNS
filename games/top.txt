@@ -1,0 +1,9 @@
+top.gg
+api.top.gg
+auctions.top.gg
+blog.top.gg
+feedback.top.gg
+ampltd.top.gg
+cdn.top.gg
+docs.top.gg
+support.top.gg

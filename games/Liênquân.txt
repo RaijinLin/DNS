@@ -1,0 +1,9 @@
+100054.connect.garena.com
+intlsdk.iegg.garena.com
+dl.kgvn.garenanow.com
+bugly-aos.cros.garena.com
+download.2.1945015797.kgvn.gcloud.garena.vn
+itop.kg.garena.vn
+ts.qq.com
+connect.garenanow.com
+puffer.6.1945015797.kgvn.gcloud.garena.vn

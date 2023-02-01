@@ -1,0 +1,16 @@
+farm2.staticflickr.com
+farm3.staticflickr.com
+farm9.staticflickr.com
+farm1.staticflickr.com
+farm6.staticflickr.com
+farm8.staticflickr.com
+farm5.staticflickr.com
+farm66.staticflickr.com
+farm4.staticflickr.com
+combo.staticflickr.com
+identity-api.flickr.com
+t.flickr.com
+identity.flickr.com
+www.flickr.com
+api.flickr.com
+c1.staticflickr.com

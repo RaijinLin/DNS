@@ -1,0 +1,8 @@
+ext-dev.mmogames.com
+stage.mmogames.com
+forums.mmogames.com
+www.mmogames.com
+mmogames.com
+s-img.mgid.com
+notify.mgid.com
+cm.mgid.com

@@ -1,0 +1,11 @@
+booking-voucher-api.vinpearl.com
+booking-promotion-api.vinpearl.com
+booking-static.vinpearl.com
+statics.vinpearl.com
+vinpearl.com
+booking-tour-api.vinpearl.com
+www.vinpearl.com
+booking-identity-api.vinpearl.com
+booking-cms-api.vinpearl.com
+booking-hotel-api.vinpearl.com
+aus-content.product.cloudhms.io

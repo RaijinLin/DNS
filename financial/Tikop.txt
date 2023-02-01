@@ -1,0 +1,3 @@
+api.tikop.vn
+cdn.tikop.vn
+event.tikop.vn

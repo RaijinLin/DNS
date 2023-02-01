@@ -1,0 +1,7 @@
+cdn-log.gcplb-prod.klook.io
+log.klook.com
+www.klook.com
+res.klook.com
+cdn-admin.gcplb-prod.klook.io
+appapi.klook.com
+admin.klook.com

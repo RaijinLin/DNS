@@ -1,0 +1,6 @@
+data-ingestion.dp.vng.com.vn
+mua.vcdn.vn
+login-mua.vnggames.net
+pp.m.zing.vn
+qjjx-login-mua.mto.zing.vn
+check-latency.mto.zing.vn

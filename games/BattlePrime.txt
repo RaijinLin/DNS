@@ -1,0 +1,6 @@
+echo-k8s.apsoutheast1.aws-bp.pressfire.games
+echo-k8s.eucentral1.aws-bp.pressfire.games
+echo-k8s.useast1.aws-bp.pressfire.games
+files.cdn-pressfire.games
+messenger.aws-bp.pressfire.games
+throttle.aws-bp.pressfire.games

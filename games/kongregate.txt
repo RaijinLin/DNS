@@ -1,0 +1,6 @@
+kongregate.com
+developers.kongregate.com
+vpn-a.aws.kongregate.com
+vpn.aws.kongregate.com
+chat-proxy.kongregate.com
+etl2.kongregate.com

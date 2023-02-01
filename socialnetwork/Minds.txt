@@ -1,0 +1,5 @@
+sp.minds.com
+ha-socket-alb-io-us-east-1.minds.com
+cdn-cinemr.minds.com
+cdn.minds.com
+www.minds.com

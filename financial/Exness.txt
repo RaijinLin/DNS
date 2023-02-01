@@ -1,0 +1,5 @@
+md.excalls.mobi
+api.excalls.mobi
+pay.ibex.exchange
+get.exness.help
+api.eccalls.mobi

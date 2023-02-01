@@ -1,0 +1,6 @@
+img.loigiaihay.com
+api.loigiaihay.com
+m.loigiaihay.com
+cp.loigiaihay.com
+dev.loigiaihay.com
+loigiaihay.com

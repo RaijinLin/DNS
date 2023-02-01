@@ -1,0 +1,5 @@
+qanda.ai
+jarvis.qanda.ai
+backdesk-static.qanda.ai
+qanda.co.kr
+api-gateway.qanda.ai

@@ -1,0 +1,16 @@
+hangouts.googleapis.com
+meetings.googleapis.com
+meetings.clients6.google.com
+meet.google.com
+hangouts.clients6.google.com
+stream.meet.google.com
+autopush.meet.google.com
+daily-0.meet.google.com
+daily-1.meet.google.com
+daily-2.meet.google.com
+daily-3.meet.google.com
+daily-4.meet.google.com
+daily-5.meet.google.com
+daily-6.meet.google.com
+oldmobile.meet.google.com
+preprod.meet.google.com

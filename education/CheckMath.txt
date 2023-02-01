@@ -1,0 +1,2 @@
+op-http3-ng-sg.checkmath.net
+api.checkmath.net

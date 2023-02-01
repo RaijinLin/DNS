@@ -1,0 +1,6 @@
+app.chinhphu.vn
+bcp.cdnchinhphu.vn
+baochinhphu.vn
+s.chinhphu.vn
+datafiles.chinhphu.vn
+chinhphu.vn

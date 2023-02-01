@@ -1,0 +1,16 @@
+olm.vn
+cdn2.olm.vn
+cdn3.olm.vn
+cdn4.olm.vn
+beta.olm.vn
+thi.olm.vn
+api.olm.vn
+cdn.olm.vn
+cur.olm.vn
+chat.olm.vn
+meet.olm.vn
+account.olm.vn
+av.olm.vn
+rs.olm.vn
+i.ytimg.com
+yt3.ggpht.com

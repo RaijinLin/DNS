@@ -1,0 +1,11 @@
+discord.com
+status.discord.com
+support.discord.com
+images-ext-2.discordapp.net
+cdn.discordapp.com
+latency.discord.media
+gateway.discord.gg
+images-ext-1.discordapp.net
+media.discordapp.net
+updates.discord.com
+dl.discordapp.net
