@@ -1,0 +1,5 @@
+api.noveltyt.net
+stg.noveltyt.net
+noveltyt.net
+static.trumtruyen.vip
+trumtruyen.vip
