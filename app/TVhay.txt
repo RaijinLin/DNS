@@ -1,8 +1,0 @@
-ophim5.cc
-codepush.appcenter.ms
-a14c1d9d26a5f1dcbf7129dcd4006b8e.safeframe.googlesyndication.com
-epdg.epc.mnc005.mcc452.pub.3gppnetwork.org
-fp-afd.azureedge.net
-xb.x8.servers-v6.ddns.softether-network.net
-b.6sc.co
-xe.x0.servers.nat-traversal.softether-network.net
