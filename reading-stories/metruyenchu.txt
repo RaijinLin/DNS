@@ -1,7 +1,0 @@
-pub.truyen.onl
-metruyencv.com
-metruyenchu.com
-api.truyen.onl
-static.cdnno.com
-static.lonoapp.net
-v.novelfeverapp.com

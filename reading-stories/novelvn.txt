@@ -1,5 +1,0 @@
-novelvn.net
-dc-1ac49bfb72e4.novelvn.net
-vpn.novelvn.net
-dc-8a8b9095a480.novelvn.net
-console.minio.novelvn.net
