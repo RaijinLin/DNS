@@ -1,0 +1,16 @@
+fonos-dd-production.akamaized.net
+admin.fonos.dev
+admin-dev.fonos.dev
+admin-staging.fonos.dev
+akamai-cdn-dev.fonos.dev
+akamai-cdn-staging.fonos.dev
+akamai-dev.fonos.dev
+api.fonos.dev
+app-dev.fonos.dev
+app-staging.fonos.dev
+go.fonos.dev
+production.fonos.dev
+staging.fonos.dev
+staging-page.fonos.dev
+fonos.dev
+ap-southeast-1.aws.realm.mongodb.com
