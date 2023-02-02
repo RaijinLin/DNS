@@ -13,3 +13,5 @@ truyenfull.iblank.tech
 vn.iblank.tech
 vps.iblank.tech
 webtruyen.iblank.tech
+static.xx.fbcdn.net
+scontent.fhan5-8.fna.fbcdn.net
