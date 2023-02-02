@@ -5,3 +5,9 @@ thapi.hinovelasia.com
 vnapi.hinovelasia.com
 web.hinovelasia.com
 hinovelasia.com
+enbook.hinovel.com
+enweb.hinovel.com
+idbook.hinovel.com
+writer.hinovel.com
+www.hinovel.com
+hinovel.com
