@@ -1,0 +1,11 @@
+admin.apptruyen.net
+api.apptruyen.net
+auth.apptruyen.net
+cdn.apptruyen.net
+crawler.apptruyen.net
+dev-admin.apptruyen.net
+dev-api.apptruyen.net
+dev-cdn.apptruyen.net
+share.apptruyen.net
+www.apptruyen.net
+s.apptruyen.net
