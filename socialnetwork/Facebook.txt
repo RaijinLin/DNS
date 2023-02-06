@@ -1,10 +1,4 @@
-api.facebook.com
-b-api.facebook.com
-b-graph.facebook.com
-chat-e2ee-mini.facebook.com
-edge-chat.facebook.com
 edge-mqtt-mini-shv-01-hkt1.facebook.com
-edge-mqtt.facebook.com
 faacebook.com
 facebook-dns.com
 facebook.co
@@ -45,9 +39,7 @@ video.fhan5-11.fna.fbcdn.net
 video.fhan5-2.fna.fbcdn.net
 video.fhan5-8.fna.fbcdn.net
 video.fhan5-9.fna.fbcdn.net
-wit.ai
 www.facebook.com
-graph.facebook.com
 rupload.facebook.com
 external.fhan5-11.fna.fbcdn.net
 star.c10r.facebook.com
@@ -61,13 +53,8 @@ scontent.fhan5-6.fna.fbcdn.net
 z-m-lookaside.facebook.com
 video.fhan5-1.fna.fbcdn.net
 edge-stun.facebook.com
-a1838.dscw154.akamai.net
-assets.msn.com
-e17437.dsct.akamaiedge.net
-e673.dsce9.akamaiedge.net
 msgr-latest.c10r.facebook.com
 web.facebook.com
-wpad.lan
 scontent.fsgn1-1.fna.fbcdn.net
 external.fhan14-2.fna.fbcdn.net
 scontent.fhan9-1.fna.fbcdn.net

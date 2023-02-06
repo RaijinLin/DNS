@@ -28,7 +28,6 @@ careers.chotot.com
 accounts.chotot.com
 chat.chotot.com
 sse-chat.chotot.com
-st.chotot.com
 cloudgw.chotot.com
 pt-www.chotot.com
 pay.chotot.com

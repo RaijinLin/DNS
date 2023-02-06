@@ -1,0 +1,11 @@
+ltbb.vcdn.vn
+tlbbdir.mto.zing.vn
+login-ttl3dm.vnggames.net
+data-ingestion.dp.vng.com.vn
+pp.m.zing.vn
+vn.voice.gcloudcs.com
+qos.hk.gcloudcs.com
+cn.voice.gcloudcs.com
+idcconfig.gcloudsdk.com
+pv.sohu.com
+check-latency.mto.zing.vn

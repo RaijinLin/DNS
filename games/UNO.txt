@@ -1,0 +1,10 @@
+www.letsplayuno.com
+geo.mattel163.com
+tc-log.mattel163.com
+optsdk.gameyw.easebar.com
+nos.gameyw.easebar.com
+mn01-login.mattel163.com
+omni-sdk.mattel163.com
+mtcgate.mattel163.com
+ads-sdk.mattel163.com
+tc-sentry.mattel163.com

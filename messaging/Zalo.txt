@@ -1,4 +1,3 @@
-ads.platform.zalo.me
 api-talk.api.zaloapp.com
 broadcast.api.zaloapp.com
 calendar.api.zaloapp.com

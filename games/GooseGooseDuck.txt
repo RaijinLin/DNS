@@ -1,0 +1,14 @@
+admin.gaggle.fun
+birdle.gaggle.fun
+checkout.gaggle.fun
+escape.gaggle.fun
+gaggle.fun
+gaggle-escape.gaggle.fun
+ggdassets.gaggle.fun
+play.gaggle.fun
+shop.gaggle.fun
+users.gaggle.fun
+www.gaggle.fun
+www.play.gaggle.fun
+www.shop.gaggle.fun
+us-central1-gaggle-staging.cloudfunctions.net

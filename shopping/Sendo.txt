@@ -25,7 +25,6 @@ nx10g.sendo.vn
 api-nx10g.sendo.vn
 mapi-nx10g.sendo.vn
 vas-public-api.sendo.vn
-voucher-api.sendo.vn
 bapi.sendo.vn
 sapi.sendo.vn
 nx10gftel.sendo.vn

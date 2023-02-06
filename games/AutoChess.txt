@@ -1,0 +1,7 @@
+goa.dragonest.com
+openapi.dragonest.com
+pandora.dragonest.com
+ddchess-dl2.dragonest.com
+account.dragonest.com
+ddchess-dl.dragonest.com
+zzqr-datacache.dragonest.com

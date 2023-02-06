@@ -10,7 +10,6 @@ backend.tiki.vn
 img.tiki.vn
 engineering.tiki.vn
 tuyendung.tiki.vn
-api.tiki.vn
 ops-api.tiki.vn
 optimus-api.tiki.vn
 mapi.tiki.vn

@@ -1,0 +1,5 @@
+o.quizlet.com
+quizlet.com
+assets.quizlet.com
+up.quizlet.com
+api.quizlet.com

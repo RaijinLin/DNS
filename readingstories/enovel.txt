@@ -1,5 +1,4 @@
 enovel.vn
-enovel.vn
 apps.enovel.vn
 api.enovel.vn
 author.enovel.vn

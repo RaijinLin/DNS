@@ -3,7 +3,7 @@ lazvideo.slatic.net
 acs-m.lazada.sg
 ifs.lazada.vn
 pull-lazlive.alicdn.com
-retcode-sg-lazada.arms.aliyuncs.com	
+retcode-sg-lazada.arms.aliyuncs.com
 laz-g-cdn.alicdn.com
 pages.lazada.vn
 lzd-img-global.slatic.net
