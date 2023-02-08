@@ -500,4 +500,10 @@ api3.vnexpress.net
 open.api.vnexpress.net
 cm.vnexpress.net
 newsroom.vnexpress.net
- 
+adp.vnecdn.net
+appperf.vnexpress.net
+l-saas.vnecdn.net
+l.a.eclick.vn
+la2.eclick.vn
+static.eclick.vn
+yt3.ggpht.com
