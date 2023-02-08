@@ -500,3 +500,6 @@ api3.vnexpress.net
 open.api.vnexpress.net
 cm.vnexpress.net
 newsroom.vnexpress.net
+adp.vnecdn.net
+appperf.vnexpress.net
+l-saas.vnecdn.net
