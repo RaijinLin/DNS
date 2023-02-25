@@ -11,3 +11,4 @@ apm-misaka.biliapi.net
 data.bilibili.com
 data.bilicdn2.com
 upos-sz-mirrorcosbstar1.bilivideo.com
+bilibili.com
