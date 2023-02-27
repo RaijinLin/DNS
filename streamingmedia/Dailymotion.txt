@@ -20,3 +20,4 @@ s2.dmcdn.net
 s1.dmcdn.net
 public-prod-dspcookiematching.dmxleo.com
 dailymotionjsvideo432290662219.s.moatpixel.com
+dailymotion.com
