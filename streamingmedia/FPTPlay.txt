@@ -3,7 +3,6 @@ images.fptplay.net
 api.fptplay.net
 checkip.fptplay.net
 livecdn.fptplay.net
-vod04-cdn.fptplay.net
 static.fptplay.net
 vod01-cdn.fptplay.net
 vod02-cdn.fptplay.net
@@ -16,3 +15,6 @@ fptplay.vn
 landing-page.fptplay.net
 logs-ott.fbox.fpt.vn
 fptplay.tv
+fptplay.net
+ads-cdn.fptplay.net
+vips-livecdn.fptplay.net
