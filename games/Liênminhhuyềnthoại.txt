@@ -1,4 +1,9 @@
+sieve.services.riotcdn.net
+bacon.secure.dyn.riotcdn.net
+riot-client.dyn.riotcdn.net
+ekg.riotgames.com
 data.riotgames.com
+riot-client.secure.dyn.riotcdn.net
 lol.secure.dyn.riotcdn.net
 lol.dyn.riotcdn.net
 lolesports.com
