@@ -18,5 +18,10 @@ www.kynaforkids.vn
 kynaenglish.vn
 kynaforkids.vn
 kynaforkids-server-production.firebaseio.com
+cdn.kynaenglish.comhttps
 cdn.kynaenglish.com
 g-media.kynaforkids.vn
+admin2-staging.kynaforkids.vn
+cdn2.kynaforkids.vn
+api2-staging.kynaforkids.vn
+skills.kynaenglish.vn
