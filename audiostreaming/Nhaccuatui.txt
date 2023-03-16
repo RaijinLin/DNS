@@ -4,7 +4,7 @@ avatar-nct.nixcdn.com
 stream.nixcdn.com
 avatar-ex-swe.nixcdn.com
 graph.nhaccuatui.com
-shortvideo.qiniuapi.com
+shortvideo.qiniu.com
 vpay.nct.vn
 myip.nhaccuatui.com
 sso.nct.vn
@@ -71,3 +71,5 @@ vid.nct.vn
 vinapay.nct.vn
 www.nct.vn
 xu.nct.vn
+c3-ex-swe.nixcdn.com
+stc-id.nixcdn.com
