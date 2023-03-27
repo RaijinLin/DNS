@@ -1,4 +1,10 @@
-bestie.vn
-beta.bestie.vn
-api.bestie.vn
-dev-new-cp.bestie.vn
+api.bestie.vn 
+bestie.vn 
+beta.bestie.vn 
+cp.bestie.vn 
+dev-new-cp.bestie.vn 
+dev-test.bestie.vn 
+dev-testcp.bestie.vn 
+static1.bestie.vn 
+www.bestie.vn 
+bestie.vn 
